@@ -1,0 +1,8 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "typescript for data structures",
+  "main": "index.js",
+  "author": "laobanz",
+  "license": "MIT"
+}
